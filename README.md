@@ -26,10 +26,7 @@ https://api.jikan.moe/v3/search/anime?q=naruto
 
 
 <h3> ⭐ Like and subscribe⭐</h3>
-
-# Video
 - <a href="https://www.youtube.com/channel/UCOZtX6OjzrdgX6v9QV76slg">Youtube Channel</a>
-
 
 # Requirements
 Any Operating System (ie. MacOS X, Linux, Windows)<p>
